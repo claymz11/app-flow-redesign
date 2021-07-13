@@ -24,6 +24,12 @@ body {
 p {
     line-height: 1.4em;
     font-size: 20px;
+    font-size: 1.3vw;
+}
+
+.responsive {
+    width: 92%;
+    height: auto;
 }
 
 main {
